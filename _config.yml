@@ -1,20 +1,4 @@
-name: Frank Fredericks
-favicon: null
-layout_spectrum: 0.3424485959112644
 typography_spectrum: 0.4202851091977209
-title: Frank Fredericks
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5728659422602504
   saturation: 0.090455457335338
   rhythmicContrast: 0.027541505405679345
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3424485959112644
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Frank Fredericks
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Frank Fredericks
+description: Entrepreneur | Interfaith Activist | Communicator
 purpose: []
